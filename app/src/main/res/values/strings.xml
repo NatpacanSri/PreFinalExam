@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PreFinalExam</string>
+    <string-array name="iphone">
+        <item>iphone 12</item>
+        <item>iphone 13</item>
+        <item>iphone 14</item>
+    </string-array>
+</resources>
